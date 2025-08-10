@@ -1,0 +1,2 @@
+# wbui-config
+wbui settings
